@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/neocypher/adventofcode2023/common"
+	"github.com/neo-cypher/adventofcode2023/common"
 )
 
 /*
